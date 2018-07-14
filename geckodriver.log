@@ -1585,4 +1585,351 @@ Unable to read VR Path Registry from C:\Users\obs\AppData\Local\openvr\openvrpat
 [Child 15180, Chrome_ChildThr[Parent 20368, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
 [Child 10732, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
 [Child 10732, Chrome_Child*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
-[GPU 7600, Chrome_Child
+[GPU 7600, Chrome_Child1531546015903	geckodriver	INFO	geckodriver 0.21.0
+1531546015910	geckodriver	INFO	Listening on 127.0.0.1:57941
+1531546018976	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\obs\\AppData\\Local\\Temp\\rust_mozprofile.fyRO1kiIb830"
+Unable to read VR Path Registry from C:\Users\obs\AppData\Local\openvr\openvrpaths.vrpath
+1531546019442	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\obs\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\obs\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\obs\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\obs\AppData\Local\openvr\openvrpaths.vrpath
+1531546020706	Marionette	INFO	Listening on port 57959
+1531546021092	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531546021188	Marionette	DEBUG	Register listener.js for window 4294967297
+1531546021203	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1531546021520	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1531546021749	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/SignUp"
+1531546022294	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1531546022310	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/signup/v2/webcreateaccount?flowName=GlifWebSignIn&flowEntry=SignUp"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 5772, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5772, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15932, Chrom[Child 18288, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18288, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/ch[Child 20460, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20460, Chrome_ChildT*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531546046841	geckodriver	INFO	geckodriver 0.21.0
+1531546046848	geckodriver	INFO	Listening on 127.0.0.1:58042
+1531546049913	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\obs\\AppData\\Local\\Temp\\rust_mozprofile.5EMNgHWfLwaw"
+Unable to read VR Path Registry from C:\Users\obs\AppData\Local\openvr\openvrpaths.vrpath
+1531546050376	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\obs\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\obs\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\obs\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\obs\AppData\Local\openvr\openvrpaths.vrpath
+1531546051665	Marionette	INFO	Listening on port 58056
+1531546052068	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531546052142	Marionette	DEBUG	Register listener.js for window 4294967297
+1531546052160	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1531546052375	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1531546052627	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/SignUp"
+1531546053000	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/signup/v2/webcreateaccount?flowName=GlifWebSignIn&flowEntry=SignUp"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 14760, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14760, Chrome_ChildThread] WARNING: pipe [Child 8492, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8492, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14180, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2452, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2452, Chrome_Child*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531546090665	geckodriver	INFO	geckodriver 0.21.0
+1531546090672	geckodriver	INFO	Listening on 127.0.0.1:58151
+1531546093735	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\obs\\AppData\\Local\\Temp\\rust_mozprofile.y89CGAaUx13Z"
+Unable to read VR Path Registry from C:\Users\obs\AppData\Local\openvr\openvrpaths.vrpath
+1531546094175	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\obs\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\obs\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\obs\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\obs\AppData\Local\openvr\openvrpaths.vrpath
+1531546095386	Marionette	INFO	Listening on port 58170
+1531546095852	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531546095940	Marionette	DEBUG	Register listener.js for window 4294967297
+1531546095957	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1531546096189	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1531546096409	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/SignUp"
+1531546096753	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/signup/v2/webcreateaccount?flowName=GlifWebSignIn&flowEntry=SignUp"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 14128, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14128, Chrome_ChildThread] WARNING: pipe erro[Child 20184, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20184, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common[Child 1008, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1008, Chrome_ChildThread]*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 12316, Chrome_ChildThread] WARNING: pi
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531546123595	geckodriver	INFO	geckodriver 0.21.0
+1531546123603	geckodriver	INFO	Listening on 127.0.0.1:58251
+1531546126668	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\obs\\AppData\\Local\\Temp\\rust_mozprofile.2I4kgTrG8Eeb"
+Unable to read VR Path Registry from C:\Users\obs\AppData\Local\openvr\openvrpaths.vrpath
+1531546127113	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\obs\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\obs\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\obs\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\obs\AppData\Local\openvr\openvrpaths.vrpath
+1531546128383	Marionette	INFO	Listening on port 58263
+1531546128797	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531546128901	Marionette	DEBUG	Register listener.js for window 4294967297
+1531546128918	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1531546129112	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1531546129262	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/SignUp"
+1531546129637	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/signup/v2/webcreateaccount?flowName=GlifWebSignIn&flowEntry=SignUp"
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://accounts.google.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://accounts.google.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+[Parent 19996, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 19996, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20428, Chrome_Chi[Child 19528, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19528, Chrome_ChildThread] WARNING*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 9892, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chrom
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531546187923	geckodriver	INFO	geckodriver 0.21.0
+1531546187930	geckodriver	INFO	Listening on 127.0.0.1:58401
+1531546190997	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\obs\\AppData\\Local\\Temp\\rust_mozprofile.Ha4YnGdnAkDh"
+Unable to read VR Path Registry from C:\Users\obs\AppData\Local\openvr\openvrpaths.vrpath
+1531546191464	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\obs\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\obs\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\obs\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\obs\AppData\Local\openvr\openvrpaths.vrpath
+1531546192707	Marionette	INFO	Listening on port 58415
+1531546193108	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531546193179	Marionette	DEBUG	Register listener.js for window 4294967297
+1531546193197	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1531546193399	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1531546193644	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/SignUp"
+1531546194097	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1531546194107	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/signup/v2/webcreateaccount?flowName=GlifWebSignIn&flowEntry=SignUp"
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://accounts.google.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://accounts.google.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+[Parent 1132, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 1132, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6380, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6380, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/s[Child 14128, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14128, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 1132, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16876, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16876, Chrome_ChildThread[GPU 15972, Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531546318437	geckodriver	INFO	geckodriver 0.21.0
+1531546318444	geckodriver	INFO	Listening on 127.0.0.1:58638
+1531546321508	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\obs\\AppData\\Local\\Temp\\rust_mozprofile.BOIuwCxL8Icl"
+Unable to read VR Path Registry from C:\Users\obs\AppData\Local\openvr\openvrpaths.vrpath
+1531546321989	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\obs\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\obs\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\obs\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\obs\AppData\Local\openvr\openvrpaths.vrpath
+1531546323218	Marionette	INFO	Listening on port 58655
+1531546323628	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531546323682	Marionette	DEBUG	Register listener.js for window 4294967297
+1531546323697	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1531546323916	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1531546324117	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/SignUp"
+1531546324612	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1531546324631	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/signup/v2/webcreateaccount?flowName=GlifWebSignIn&flowEntry=SignUp"
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://accounts.google.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://accounts.google.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://accounts.google.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://accounts.google.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+[Parent 15948, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15948, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19464, Chrome_ChildThread] WARNING: pipe e[Child 20428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15948, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ation "outer-window-destroyed" for "4294967301"
+1531546407182	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/signup/v2/webcreateaccount?flowName=GlifWebSignIn&flowEntry=SignUp"
+[Parent 18192, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20452, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 20452, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20452, Chrome_ChildThread] WARUnable to read VR Path Registry from C:\Users\obs\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2912, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2912, Chrome_ChildThread] W[Child 20268, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20268, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrom[Parent 18192, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15852, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15852, Chrome_ChildT*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 5060, C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531546493571	geckodriver	INFO	geckodriver 0.21.0
+1531546493578	geckodriver	INFO	Listening on 127.0.0.1:59009
+1531546496643	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\obs\\AppData\\Local\\Temp\\rust_mozprofile.QWn17tcULHQe"
+Unable to read VR Path Registry from C:\Users\obs\AppData\Local\openvr\openvrpaths.vrpath
+1531546497214	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\obs\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\obs\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\obs\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\obs\AppData\Local\openvr\openvrpaths.vrpath
+1531546498510	Marionette	INFO	Listening on port 59021
+1531546498757	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531546498820	Marionette	DEBUG	Register listener.js for window 4294967297
+1531546498833	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1531546499044	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1531546499222	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/SignUp"
+1531546499647	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/signup/v2/webcreateaccount?flowName=GlifWebSignIn&flowEntry=SignUp"
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://accounts.google.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+[Parent 16040, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 16040, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19760, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19760, Chro[Child 10732, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10732, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win[Parent 16040, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15416, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15416, Chrome_ChildThread] WARNING: pipe[GPU 1241
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+k"
+1531546534054	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1531546534401	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/SignUp"
+1531546534831	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1531546534850	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/signup/v2/webcreateaccount?flowName=GlifWebSignIn&flowEntry=SignUp"
+1531546540377	Marionette	DEBUG	Received DOM event "beforeunload" for "https://accounts.google.com/signup/v2/webcreateaccount?flowName=GlifWebSignIn&flowEntry=SignUp"
+1531546545705	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 18888, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/srUnable to read VR Path Registry from C:\Users\obs\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 18888, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18008, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_w[Chilin.d 143cc, line 346
+6, Chrome_ChildThread] W[ChARNINiGld 18008, Chr: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1436, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 18888, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17188, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17188, Chrome_ChildT*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
