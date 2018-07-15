@@ -1,1 +1,2 @@
-"# silver-bot" 
+# silver-bot
+automates email registration 
