@@ -1,6 +1,6 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
-import time
+import time, string, random
 
 class Silverbot (object):
 
@@ -9,6 +9,11 @@ class Silverbot (object):
 		self.l_name = l_name
 		self.u_name = u_name
 		self.passw = passw
+
+	# name randomizer 6-30 characters
+	def name_generator(size=30, chars=string.ascii_uppercase + string.digits):
+		return ''.join(random.choice(chars) for _ in range(size))
+
 
 	# Gmail signup automation
 	def gBot(self):
@@ -34,3 +39,4 @@ class Silverbot (object):
 		# click submit button
 		driver.find_element_by_xpath('/html/body/div[1]/div/div[2]/div[1]/div[2]/form/div[2]/div/div[2]/div[1]/div/content/span').click()
 		time.sleep(1)
+
