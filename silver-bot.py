@@ -40,3 +40,8 @@ class Silverbot (object):
 		driver.find_element_by_xpath('/html/body/div[1]/div/div[2]/div[1]/div[2]/form/div[2]/div/div[2]/div[1]/div/content/span').click()
 		time.sleep(1)
 
+		# writes username and password to file
+		f = open('csvfile.csv','w')
+		f.write(u_name, passw) 	
+		f.close()
+
